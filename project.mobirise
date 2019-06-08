@@ -25,13 +25,14 @@
         "#780200",
         "#b90300",
         "#151515",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 26,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -210,7 +211,8 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "right"
             }
           },
           "_params": {
@@ -257,6 +259,87 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "24px",
+              "color": "#fac51c"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "MAKE SURE YOUR SPEAKERS ARE ON AND THE VOLUME IS TURNED UP.",
+          "caption": "<p>Please turn off all distractions such as pop up notifications, social media alerts, email etc. This is too important to miss a second of what is about to be shared with you. Click the play button to start the audio playing.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<blockquote>“I made $1,400 in 15 minutes on my first day. Then I made $8,800 in a week. Then I made more in a week than I made from last years salary combined. This is real.”</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_styles": {
+            "DIV": {
+              "color": "#c0a375"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-m"
+        },
+        {
+          "_styles": {
             ".mbr-section-title": {
               "color": "#fff"
             },
@@ -285,7 +368,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
+          "text": "Please turn off all distractions such as pop up notifications, social media alerts, email etc. This is too important to miss a second of what is about to be shared with you. Click the play button to start the audio playing.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"

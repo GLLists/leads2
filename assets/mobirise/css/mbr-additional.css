@@ -753,6 +753,7 @@ section.form .container {
 #msg-box3-b .mbr-section-title {
   color: #ffffff;
   font-size: 30px;
+  text-align: right;
 }
 #custom-html-9 {
   /* Type valid CSS here */
@@ -765,6 +766,28 @@ section.form .container {
 #custom-html-9 p {
   font-size: 60px;
   color: #777;
+}
+#content5-n .mbr-section-title,
+#content5-n p {
+  color: #fff;
+}
+#content5-n .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  color: #fac51c;
+}
+#content5-n P {
+  text-align: center;
+}
+#content5-n DIV {
+  color: #f7da64;
+}
+#content2-p DIV {
+  color: #c0a375;
+}
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
 }
 #msg-box2-j .mbr-section-title {
   color: #fff;
