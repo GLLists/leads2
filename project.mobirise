@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-07_1951",
+    "name": "Bestproleads.com2",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,15 +23,22 @@
       "additionalSetColors": [
         "#8e0200",
         "#780200",
-        "#b90300"
+        "#b90300",
+        "#151515"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 3,
+    "uniqCompNum": 8,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "@PROJECT_PATH@/assets/images/1-128x117.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -65,7 +72,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#151515",
             "overlayOpacity": "0.8"
           },
           "title": "Making money is easy when you have the right <i>PROVEN</i> system. 97% FAIL BECAUSE THEY WASTE TIME, ENERGY, EFFORT AND MONEY CHASING THE WRONG PEOPLE... AND THEN TRY TO TALK THEM INTO THEIR OPPORTUNITY.<br><br>",
@@ -87,6 +94,69 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "59",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/341112198",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Making money and real success leaves clues...<br>",
+          "text": "<p>If you would be pleased to discover how I was able to generate $65,000 in only nine days, I urge you to listen to the interview just below this section. I talk about one of the making money components that I used to make it happen!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "25px",
+              "color": "#b90300"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         }

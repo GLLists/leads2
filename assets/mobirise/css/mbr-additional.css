@@ -725,3 +725,14 @@ section.form .container {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
 }
+#msg-box4-7 DIV {
+  text-align: left;
+}
+#msg-box4-7 H3 {
+  text-align: left;
+  font-size: 25px;
+  color: #b90300;
+}
+#msg-box4-7 P {
+  font-size: 20px;
+}
