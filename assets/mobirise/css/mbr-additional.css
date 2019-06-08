@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -730,9 +732,47 @@ section.form .container {
 }
 #msg-box4-7 H3 {
   text-align: left;
-  font-size: 25px;
+  font-size: 30px;
   color: #b90300;
 }
 #msg-box4-7 P {
-  font-size: 20px;
+  font-size: 22px;
+}
+#msg-box2-c .mbr-section-title {
+  color: #fff;
+  text-align: right;
+}
+#msg-box2-c .mbr-section-subtitle {
+  color: #fac51c;
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box3-b .mbr-section-title,
+#msg-box3-b p {
+  color: #000;
+}
+#msg-box3-b .mbr-section-title {
+  color: #ffffff;
+  font-size: 30px;
+}
+#custom-html-9 {
+  /* Type valid CSS here */
+}
+#custom-html-9 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-9 p {
+  font-size: 60px;
+  color: #777;
+}
+#msg-box2-j .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-j .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-e .mbr-section-title,
+#header3-e .mbr-section-subtitle {
+  text-align: center;
 }
