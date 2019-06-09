@@ -767,16 +767,13 @@ section.form .container {
 #content5-n .mbr-section-title {
   text-align: center;
   font-size: 24px;
-  color: #fac51c;
+  color: #8e0200;
 }
 #content5-n P {
   text-align: center;
 }
 #content5-n DIV {
   color: #f7da64;
-}
-#content2-p DIV {
-  color: #efefef;
 }
 #msg-box3-r .mbr-section-title,
 #msg-box3-r p {
@@ -787,6 +784,24 @@ section.form .container {
   font-size: 36px;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+}
+#content5-1e .mbr-section-title,
+#content5-1e p {
+  color: #fff;
+}
+#content5-1e .mbr-section-title {
+  text-align: center;
+  font-size: 24px;
+  color: #fac51c;
+}
+#content5-1e P {
+  text-align: center;
+}
+#content5-1e DIV {
+  color: #f7da64;
+}
+#content2-p DIV {
+  color: #efefef;
 }
 #msg-box2-j .mbr-section-title {
   color: #fff;

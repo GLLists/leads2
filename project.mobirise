@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -195,7 +195,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THIS EXCITING<br>AND REVEALING AUDIO",
-          "text": "EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!",
+          "text": "<b>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
@@ -272,11 +272,96 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-1d",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" data-rv-view=\"126\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg&quot;); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <br><h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"48\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" data-rv-view=\"126\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg&quot;); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <br><h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"50\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, p {\n  color: #000;\n}\n",
           "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "24px",
+              "color": "#8e0200"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.8"
+          },
+          "title": "(( &nbsp;MAKE SURE YOUR SPEAKERS ARE ON AND THE VOLUME IS TURNED UP &nbsp;))",
+          "caption": "<p>Please turn off all distractions such as pop up notifications, social media alerts, email etc. This is too important to miss a second of what is about to be shared with you. Click the play button to start the audio playing.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE! CREATE THE LIFE YOU WANT. LISTEN TO AUDIO, <i>THEN CALL ME</i>",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-r"
         },
         {
           "_styles": {
@@ -319,7 +404,7 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-n"
+          "_anchor": "content5-1e"
         },
         {
           "_params": {
@@ -338,48 +423,6 @@
               "color": "#efefef"
             }
           }
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "36px",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE!<br><br>CREATE THE LIFE YOU WANT.<br>LISTEN TO AUDIO, THEN CALL ME.",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-r"
         },
         {
           "_styles": {
