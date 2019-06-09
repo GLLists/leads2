@@ -347,10 +347,13 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "36px",
+              "font-size": "24px",
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-title I": {
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -372,7 +375,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE! CREATE THE LIFE YOU WANT. LISTEN TO AUDIO, <i>THEN CALL ME</i>",
+          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE! CREATE THE LIFE YOU WANT. LISTEN TO AUDIO<br><i>THEN CALL ME!</i>",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
