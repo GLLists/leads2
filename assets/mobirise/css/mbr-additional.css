@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -784,7 +785,7 @@ section.form .container {
 }
 #msg-box3-r .mbr-section-title {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 30px;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
@@ -802,9 +803,19 @@ section.form .container {
 }
 #content5-1e P {
   text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 60px;
 }
 #content5-1e DIV {
   color: #f7da64;
+}
+#extFeatures1-1i .mbr-section-title {
+  color: #fff;
+  font-size: 30px;
+}
+#extFeatures1-1i .mbr-section-subtitle {
+  color: #fac51c;
+  font-size: 20px;
 }
 #msg-box2-j .mbr-section-title {
   color: #fff;

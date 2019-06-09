@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 51,
+    "uniqCompNum": 55,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -347,7 +347,7 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "24px",
+              "font-size": "30px",
               "text-align": "center",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
@@ -375,7 +375,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE! CREATE THE LIFE YOU WANT. LISTEN TO AUDIO&nbsp;<i>THEN CALL ME!</i>",
+          "title": "YOU DON’T HAVE TO SETTLE FOR THE LIFE YOU HAVE! CREATE THE LIFE YOU WANT.",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
@@ -395,7 +395,10 @@
               "color": "#fac51c"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "60px"
             },
             "DIV": {
               "color": "#f7da64"
@@ -419,13 +422,143 @@
             "overlayColor": "#2e2e2e",
             "overlayOpacity": "0.8"
           },
-          "title": "MAKE SURE YOUR SPEAKERS ARE ON AND THE VOLUME IS TURNED UP.",
-          "caption": "<p>Please turn off all distractions such as pop up notifications, social media alerts, email etc. This is too important to miss a second of what is about to be shared with you. Click the play button to start the audio playing.</p>",
+          "title": "CAREFULLY REVIEW EVERYTHING AND THEN CALL MICHAEL&nbsp;<br>",
+          "caption": "<p>@ 865-245-5705</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#fac51c",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sambrannon-1262x1600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/picks-shovels-475x484.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "gold-bars1",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "device-multitrack-audio",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "av-timer",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "money-bag2",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "The gold is every business opportunity. The leads are the PICKS and SHOVELS. YOU CAN COPY WHAT SAM BRENNAN DID TO RAKE IN VERY SERIOUS CASH USING A BRILLIANT MAKING MONEY STRATEGY!",
+          "subtitle": "There are many examples I could list here. Who do you think makes more money, the automotive detail shop or the supplier who supplies the cleaning products detail shops need to detail vehicles? If you said the supplier you are right!",
+          "feature_title1": "Samuel Brannan",
+          "feature_subtitle1": "",
+          "feature_text1": "Back in the 1800’s. When gold was discovered, Brannan owned the only store between San Francisco and the gold fields — a fact he capitalized on by buying up all the picks, shovels and pans he could find, and then running up and down the streets of San Francisco, shouting “Gold! Gold on the American River!” ",
+          "feature_title2": "Opportunity Knocks",
+          "feature_subtitle2": "",
+          "feature_text2": "He paid 20 cents each for the pans, then sold them for $15 a piece. In nine weeks, he made $36,000. He became California’s first millionaire.&nbsp;<br>",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "The lesson here is ...",
+          "feature_subtitle4": "",
+          "feature_text4": "Brannan was smart enough to know the way to get rich, is by selling the PICKS and SHOVELS to people who are trying to get rich! This is exactly what we are doing by selling leads! ",
+          "feature_title5": "Fundamental Element",
+          "feature_subtitle5": "",
+          "feature_text5": "We are selling something that people want to buy and they need. And the best part is they are willing to pay very well for it. This is a fundamental making money element.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-1i"
         },
         {
           "_styles": {
