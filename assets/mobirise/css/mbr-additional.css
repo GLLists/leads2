@@ -760,10 +760,6 @@ section.form .container {
 #msg-box3-1d p {
   color: #000;
 }
-#msg-box3-q .mbr-section-title,
-#msg-box3-q p {
-  color: #000;
-}
 #content5-n .mbr-section-title,
 #content5-n p {
   color: #fff;
@@ -780,7 +776,7 @@ section.form .container {
   color: #f7da64;
 }
 #content2-p DIV {
-  color: #c0a375;
+  color: #efefef;
 }
 #msg-box3-r .mbr-section-title,
 #msg-box3-r p {
@@ -802,4 +798,8 @@ section.form .container {
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box3-q .mbr-section-title,
+#msg-box3-q p {
+  color: #000;
 }
