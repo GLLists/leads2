@@ -279,18 +279,18 @@
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/money-dollar-bills-benjamin-franklin-1920x1080-wallpaper-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.8"
           },
           "title": "MAKE SURE YOUR SPEAKERS ARE ON AND THE VOLUME IS TURNED UP.",
           "caption": "<p>Please turn off all distractions such as pop up notifications, social media alerts, email etc. This is too important to miss a second of what is about to be shared with you. Click the play button to start the audio playing.</p>",
