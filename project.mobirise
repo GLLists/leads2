@@ -163,6 +163,24 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><b>“I made $1,400 in 15 minutes on my first day. Then I made $8,800 in a week. Then I made more in a week than I made from last years salary combined. This is real.”</b></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_styles": {
+            "DIV": {
+              "color": "#c0a375"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
@@ -405,24 +423,6 @@
           ],
           "_name": "content5",
           "_anchor": "content5-1e"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<blockquote>“I made $1,400 in 15 minutes on my first day. Then I made $8,800 in a week. Then I made more in a week than I made from last years salary combined. This is real.”</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-p",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            }
-          }
         },
         {
           "_styles": {
