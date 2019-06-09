@@ -817,18 +817,3 @@ section.form .container {
   color: #fac51c;
   font-size: 20px;
 }
-#msg-box2-j .mbr-section-title {
-  color: #fff;
-  text-align: right;
-}
-#msg-box2-j .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#header3-e .mbr-section-title,
-#header3-e .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box3-q .mbr-section-title,
-#msg-box3-q p {
-  color: #000;
-}
