@@ -756,6 +756,10 @@ section.form .container {
   font-size: 30px;
   text-align: right;
 }
+#msg-box3-1d .mbr-section-title,
+#msg-box3-1d p {
+  color: #000;
+}
 #msg-box3-q .mbr-section-title,
 #msg-box3-q p {
   color: #000;
@@ -798,20 +802,4 @@ section.form .container {
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
-}
-#extFeatures8-14 .feature-title,
-#extFeatures8-14 .description {
-  color: #232323;
-}
-#extFeatures8-14 .feature-subtitle {
-  color: #8c8c8c;
-}
-#extFeatures12-16 .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-16 .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-16 .card-number {
-  color: #c0a375;
 }
