@@ -788,10 +788,6 @@ section.form .container {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
 #msg-box2-j .mbr-section-title {
   color: #fff;
   text-align: right;
@@ -802,7 +798,4 @@ section.form .container {
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
-}
-#custom-html-s figure {
-  margin: 0;
 }
