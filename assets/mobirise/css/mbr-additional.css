@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -755,17 +756,9 @@ section.form .container {
   font-size: 30px;
   text-align: right;
 }
-#custom-html-9 {
-  /* Type valid CSS here */
-}
-#custom-html-9 div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-9 p {
-  font-size: 60px;
-  color: #777;
+#msg-box3-q .mbr-section-title,
+#msg-box3-q p {
+  color: #000;
 }
 #content5-n .mbr-section-title,
 #content5-n p {
@@ -785,12 +778,23 @@ section.form .container {
 #content2-p DIV {
   color: #c0a375;
 }
+#msg-box3-r .mbr-section-title,
+#msg-box3-r p {
+  color: #000;
+}
+#msg-box3-r .mbr-section-title {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
   text-align: center;
 }
 #msg-box2-j .mbr-section-title {
   color: #fff;
+  text-align: right;
 }
 #msg-box2-j .mbr-section-subtitle {
   color: #a0a0a0;
@@ -798,4 +802,7 @@ section.form .container {
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
   text-align: center;
+}
+#custom-html-s figure {
+  margin: 0;
 }
