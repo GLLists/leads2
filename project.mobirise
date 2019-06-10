@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#00510b",
         "#f4f4f4",
         "#8e0200",
         "#780200",
         "#b90300",
         "#151515",
-        "#2e2e2e",
-        "#232323"
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -955,16 +955,16 @@
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/397972-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#00510b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
@@ -1005,16 +1005,16 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/397972-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#00510b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
