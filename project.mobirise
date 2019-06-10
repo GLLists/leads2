@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -423,7 +423,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "CAREFULLY REVIEW EVERYTHING AND THEN CALL MICHAEL&nbsp;<br>",
-          "caption": "<p>+1-865-245-5705</p>",
+          "caption": "<p><a href=\"tel:+1-865-245-5705\">+1-865-245-5705</a></p>",
           "_tags": [
             "Theme"
           ],
