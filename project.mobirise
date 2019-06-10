@@ -310,13 +310,13 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#8e0200"
+              "color": "#f97352"
             }
           },
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
@@ -423,7 +423,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "CAREFULLY REVIEW EVERYTHING AND THEN CALL MICHAEL&nbsp;<br>",
-          "caption": "<p>@ 865-245-5705</p>",
+          "caption": "<p>+1-865-245-5705</p>",
           "_tags": [
             "Theme"
           ],
@@ -462,7 +462,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/picks-shovels-475x484.png",
+              "src": "@PROJECT_PATH@/assets/images/picks-shovels475c-475x475.png",
               "active": true,
               "link": "",
               "alt": "",
