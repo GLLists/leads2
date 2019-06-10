@@ -2,9 +2,15 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
+
+
 
 
 
@@ -85,7 +91,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #ffffff !important;
+  background-color: #f3c649 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -100,8 +106,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #f3c649;
+  border-color: #f3c649;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -110,14 +116,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  background-color: #e1a90f;
+  border-color: #e1a90f;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  background-color: #e1a90f !important;
+  border-color: #e1a90f !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -221,8 +227,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #c9970d;
+  color: #c9970d;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -230,14 +236,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #f3c649;
+  border-color: #f3c649;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  background-color: #f3c649 !important;
+  border-color: #f3c649 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -340,7 +346,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #ffffff !important;
+  color: #f3c649 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -367,32 +373,32 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #ffffff;
+  border-color: #f3c649;
 }
 .btn-social:hover {
-  background: #ffffff;
+  background: #f3c649;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #ffffff;
+  color: #f3c649;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #ffffff;
+  color: #f3c649;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #ffffff;
+  background: #f3c649;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #ffffff;
+  color: #f3c649;
 }
 .lead a,
 .lead a:hover {
-  color: #ffffff;
+  color: #f3c649;
 }
 .lead blockquote {
-  border-color: #ffffff;
+  border-color: #f3c649;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -416,10 +422,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #ffffff;
-}
-.scrollToTop_wraper {
-  display: none;
+  color: #f3c649;
 }
 .form-control {
   padding: 0.9rem;
@@ -493,7 +496,7 @@ section.form .container {
   font-family: 'Lora', serif;
 }
 .mbr-iconfont-counters1 {
-  color: #ffffff;
+  color: #f3c649;
 }
 .extHeader1 .container h3,
 .extHeader2 .container h3,
@@ -571,7 +574,7 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 .extFeatures3 .border-wrap {
-  border-color: #ffffff;
+  border-color: #f3c649;
 }
 .extFeatures4 h4,
 .extFeatures6 h4,
@@ -602,13 +605,13 @@ section.form .container {
   font-family: 'Lora', serif;
 }
 .extPricingTable1 .bottom_line {
-  border-bottom-color: #ffffff;
+  border-bottom-color: #f3c649;
 }
 .extPricingTable1 .mbr-price small {
   font-family: 'Lora', serif;
 }
 .extPricingTable1 .mbr-plan-label {
-  background: #ffffff;
+  background: #f3c649;
 }
 .extCounters2 h4 {
   font-family: 'Montserrat', sans-serif;
@@ -626,14 +629,14 @@ section.form .container {
   font-family: 'Lora', serif;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 .extProgressBar .progress-primary[value]::-moz-progress-bar {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar .progress-primary .progress-bar {
-    background-color: #ffffff;
+    background-color: #f3c649;
   }
 }
 .extProgressBar .title-wrap {
@@ -650,7 +653,7 @@ section.form .container {
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
-  color: #ffffff;
+  color: #f3c649;
 }
 .extAccordion1 .panel-heading a {
   font-family: 'Raleway', sans-serif;
@@ -664,7 +667,7 @@ section.form .container {
 .extAccordion1 .pseudoMinus,
 .extAccordion2 .pseudoMinus,
 .extToggle1 .pseudoMinus {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
@@ -672,14 +675,14 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 .extProgressBar5 .progress-primary[value]::-moz-progress-bar {
-  background-color: #ffffff;
+  background-color: #f3c649;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar5 .progress-primary .progress-bar {
-    background-color: #ffffff;
+    background-color: #f3c649;
   }
 }
 .extProgressBar5 .title-wrap {
@@ -711,16 +714,16 @@ section.form .container {
   font-family: 'Montserrat', sans-serif;
 }
 .extMenu1 span.icon a:hover {
-  color: #ffffff !important;
+  color: #f3c649 !important;
 }
 .extProgressBar .progress-primary[value]::-ms-fill {
-  color: #ffffff;
+  color: #f3c649;
 }
 .extProgressBar5 .progress-primary[value]::-ms-fill {
-  color: #ffffff;
+  color: #f3c649;
 }
 .theme-border {
-  border: 1px solid #ffffff;
+  border: 1px solid #f3c649;
 }
 #header4-2 .mbr-section-title {
   color: #fac51c;
@@ -834,13 +837,41 @@ section.form .container {
 #content5-1n DIV {
   color: #f7da64;
 }
-#msg-box3-1o .mbr-section-title,
-#msg-box3-1o p {
+#content5-23 .mbr-section-title,
+#content5-23 p {
+  color: #fff;
+}
+#content5-23 .mbr-section-title {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #00510b;
+  font-size: 36px;
+}
+#content5-23 .mbr-section-title DIV {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+#content1-2b P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+#extFeatures7-2c .mbr-section-title {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures7-2c .mbr-section-subtitle {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
   color: #000;
 }
-#msg-box3-1o .mbr-section-title,
-#msg-box3-1o p {
-  color: #000;
+#msg-box3-1l .mbr-section-title {
+  color: #00510b;
+  font-size: 30px;
+  text-align: center;
 }
 #msg-box3-1d .mbr-section-title,
 #msg-box3-1d p {
@@ -848,15 +879,6 @@ section.form .container {
 }
 #content2-p DIV {
   color: #c0a375;
-}
-#msg-box3-1l .mbr-section-title,
-#msg-box3-1l p {
-  color: #000;
-}
-#msg-box3-1l .mbr-section-title {
-  color: #ffffff;
-  font-size: 30px;
-  text-align: center;
 }
 #msg-box4-1r P {
   text-align: center;
@@ -881,10 +903,6 @@ section.form .container {
 #msg-box2-20 .mbr-section-subtitle {
   color: #151515;
   text-align: center;
-}
-#content5-23 .mbr-section-title,
-#content5-23 p {
-  color: #fff;
 }
 #header3-25 .mbr-section-title,
 #header3-25 .mbr-section-subtitle {
