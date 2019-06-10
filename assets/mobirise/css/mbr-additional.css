@@ -759,7 +759,7 @@ section.form .container {
   color: #000;
 }
 #msg-box3-b .mbr-section-title {
-  color: #ffffff;
+  color: #232323;
   font-size: 30px;
   text-align: right;
 }
@@ -864,4 +864,29 @@ section.form .container {
 #msg-box4-1r H3 {
   text-align: left;
   color: #f4f4f4;
+}
+#msg-box3-1x .mbr-section-title,
+#msg-box3-1x p {
+  color: #000;
+}
+#msg-box3-1x .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-1x .lead P {
+  text-align: center;
+}
+#msg-box2-20 .mbr-section-title {
+  color: #faaf40;
+}
+#msg-box2-20 .mbr-section-subtitle {
+  color: #151515;
+  text-align: center;
+}
+#content5-23 .mbr-section-title,
+#content5-23 p {
+  color: #fff;
+}
+#header3-25 .mbr-section-title,
+#header3-25 .mbr-section-subtitle {
+  text-align: center;
 }

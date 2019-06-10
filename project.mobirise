@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#00510b",
         "#f4f4f4",
         "#8e0200",
         "#780200",
         "#b90300",
-        "#151515",
-        "#2e2e2e"
+        "#151515"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 66,
+    "uniqCompNum": 78,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -60,7 +60,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1401.jpg",
@@ -192,7 +192,7 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-c",
-          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"39\">THIS EXCITING<br>AND REVEALING AUDIO</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"40\"><strong>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</strong></h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  \n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"63\">THIS EXCITING<br>AND REVEALING AUDIO</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"64\"><strong>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</strong></h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  \n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n.mbr-section-title {\n  color: #fff;\n  text-align: right;\n}\n.mbr-section-subtitle {\n  color: #fac51c;\n  font-family: 'Droid Sans', sans-serif;\n  text-align: right;\n}\n",
@@ -205,7 +205,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#232323",
               "font-size": "30px",
               "text-align": "right"
             }
@@ -214,13 +214,13 @@
             "showTitle": true,
             "showText": false,
             "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -990,54 +990,166 @@
           "_anchor": "msg-box4-1s"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/397972-1920x1080.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00510b",
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#151515",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-20"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#fff",
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1t"
+          "_name": "content5",
+          "_anchor": "content5-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-24"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25"
         }
       ]
     }
