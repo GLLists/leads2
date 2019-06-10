@@ -164,17 +164,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "text-align": "right"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#232323",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -182,10 +171,10 @@
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
+            "parallax": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -202,7 +191,12 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-c"
+          "_anchor": "msg-box2-c",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"39\">THIS EXCITING<br>AND REVEALING AUDIO</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"40\"><strong>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</strong></h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  \n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n.mbr-section-title {\n  color: #fff;\n  text-align: right;\n}\n.mbr-section-subtitle {\n  color: #fac51c;\n  font-family: 'Droid Sans', sans-serif;\n  text-align: right;\n}\n",
+          "_customTemplate": true
         },
         {
           "_inherit": "msg-box8",
@@ -222,10 +216,10 @@
             "showButton": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -273,7 +267,7 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-1d",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" data-rv-view=\"126\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg&quot;); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <br><h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"24\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"46\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title, p {\n  color: #000;\n}\n",
@@ -287,7 +281,7 @@
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "24px",
-              "color": "#8e0200"
+              "color": "#e25041"
             },
             "P": {
               "text-align": "center"
@@ -301,10 +295,10 @@
             "showCaption": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -345,10 +339,10 @@
             "showButton": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -392,10 +386,10 @@
             "showCaption": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
