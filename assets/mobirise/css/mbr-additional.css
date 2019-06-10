@@ -743,9 +743,6 @@ section.form .container {
 #msg-box4-7 P {
   font-size: 22px;
 }
-#content2-p DIV {
-  color: #c0a375;
-}
 #msg-box2-c .mbr-section-title {
   color: #fff;
   text-align: right;
@@ -780,7 +777,10 @@ section.form .container {
   text-align: center;
 }
 #content5-n DIV {
-  color: #f7da64;
+  color: #8e0200;
+}
+#content2-p DIV {
+  color: #c0a375;
 }
 #msg-box3-r .mbr-section-title,
 #msg-box3-r p {
