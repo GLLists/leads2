@@ -759,13 +759,9 @@ section.form .container {
   color: #000;
 }
 #msg-box3-b .mbr-section-title {
-  color: #232323;
+  color: #b90300;
   font-size: 30px;
   text-align: right;
-}
-#msg-box3-1d .mbr-section-title,
-#msg-box3-1d p {
-  color: #000;
 }
 #content5-n .mbr-section-title,
 #content5-n p {
@@ -846,6 +842,10 @@ section.form .container {
 #msg-box3-1o p {
   color: #000;
 }
+#msg-box3-1d .mbr-section-title,
+#msg-box3-1d p {
+  color: #000;
+}
 #content2-p DIV {
   color: #c0a375;
 }
@@ -889,4 +889,12 @@ section.form .container {
 #header3-25 .mbr-section-title,
 #header3-25 .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box3-27 .mbr-section-title,
+#msg-box3-27 p {
+  color: #000;
+}
+#msg-box3-27 .mbr-section-title,
+#msg-box3-27 p {
+  color: #000;
 }

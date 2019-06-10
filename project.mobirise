@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 78,
+    "uniqCompNum": 80,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -192,7 +192,7 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-c",
-          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"63\">THIS EXCITING<br>AND REVEALING AUDIO</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"64\"><strong>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</strong></h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  \n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n            \n\n            <div class=\"mbr-table-md-up\">\n              <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                  <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"92\">THIS EXCITING<br>AND REVEALING AUDIO</h3>\n                  <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"93\"><strong>EXPLAINS HOW YOU CAN RAKE IN $10,000+ EVERY WEEK, STARTING IMMEDIATELY WITH THIS PROVEN MAKING MONEY SYSTEM!</strong></h2>\n              </div>\n              <div class=\"mbr-table-cell col-md-4\">\n                  \n              </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n.mbr-section-title {\n  color: #fff;\n  text-align: right;\n}\n.mbr-section-subtitle {\n  color: #fac51c;\n  font-family: 'Droid Sans', sans-serif;\n  text-align: right;\n}\n",
@@ -205,7 +205,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#232323",
+              "color": "#b90300",
               "font-size": "30px",
               "text-align": "right"
             }
@@ -215,7 +215,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
@@ -229,7 +229,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ONCE YOU HEAR THIS MESSAGE YOU WILL NEVER BE THE SAME AGAIN. LISTEN...",
+          "title": "<i>ONCE YOU HEAR THIS MESSAGE YOU WILL NEVER BE THE SAME AGAIN. LISTEN...</i>",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
@@ -239,38 +239,61 @@
           "_anchor": "msg-box3-b"
         },
         {
-          "_inherit": "msg-box8",
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x1000.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1d",
-          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"46\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1q",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 20px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x1000.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"105\">EARN $10,000+ EVERY WEEK</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.mbr-section-title, p {\n  color: #000;\n}\n",
+          "_customCSS": "",
           "_customTemplate": true
         },
         {
@@ -626,6 +649,41 @@
           "_JSplaceholders": []
         },
         {
+          "_inherit": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1d",
+          "_customHTML": "<section class=\"mbr-info mbr-section mbr-section-md-padding\" data-rv-view=\"8\" style=\"background-color: rgb(46, 46, 46); padding-top: 30px; padding-bottom: 30px;\">\n\n    \n <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"96\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.mbr-section-title, p {\n  color: #000;\n}\n",
+          "_customTemplate": true
+        },
+        {
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
@@ -822,64 +880,6 @@
           ],
           "_name": "extTabs1",
           "_anchor": "extTabs1-18"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "20",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x1000.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1q",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(242, 242, 242); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 20%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x1000.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"31\">INTRO WITH YOUTUBE VIDEO</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
         },
         {
           "_inherit": "msg-box5",
@@ -1132,11 +1132,6 @@
           "_anchor": "msg-box1-24"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -1149,7 +1144,52 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-25"
+          "_anchor": "header3-25",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" data-rv-view=\"93\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">Title with Solid Background Color</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"68\">By John Smith posted July 20, 2016</small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"21\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <br><h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(250, 197, 28);\" code-editable-id=\"84\">EARN $10,000+ EVERY WEEK</h3><br>\n                <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio></div></div></div></section>",
+          "_customCSS": "@import url(undefined);\n.mbr-section-title, p {\n  color: #000;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box3-27",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
