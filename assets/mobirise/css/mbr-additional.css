@@ -2,8 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -816,4 +819,39 @@ section.form .container {
 #extFeatures1-1i .mbr-section-subtitle {
   color: #fac51c;
   font-size: 20px;
+}
+#content5-1n .mbr-section-title,
+#content5-1n p {
+  color: #fff;
+}
+#content5-1n .mbr-section-title {
+  text-align: center;
+  font-size: 48px;
+  color: #fac51c;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content5-1n P {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content5-1n DIV {
+  color: #f7da64;
+}
+#msg-box3-1o .mbr-section-title,
+#msg-box3-1o p {
+  color: #000;
+}
+#msg-box3-1o .mbr-section-title,
+#msg-box3-1o p {
+  color: #000;
+}
+#msg-box3-1l .mbr-section-title,
+#msg-box3-1l p {
+  color: #000;
+}
+#msg-box3-1l .mbr-section-title {
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
 }
