@@ -844,7 +844,7 @@ section.form .container {
 #content5-23 .mbr-section-title {
   text-align: center;
   font-family: 'Oswald', sans-serif;
-  color: #00510b;
+  color: #667403;
   font-size: 36px;
 }
 #content5-23 .mbr-section-title DIV {
@@ -855,6 +855,7 @@ section.form .container {
 #content1-2b P {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+  text-align: center;
 }
 #extFeatures7-2c .mbr-section-title {
   font-size: 60px;
@@ -863,6 +864,9 @@ section.form .container {
 #extFeatures7-2c .mbr-section-subtitle {
   font-size: 30px;
   font-family: 'Roboto', sans-serif;
+}
+#extFeatures7-2c P {
+  color: #000000;
 }
 #msg-box3-1l .mbr-section-title,
 #msg-box3-1l p {
