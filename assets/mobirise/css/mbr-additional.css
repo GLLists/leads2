@@ -884,6 +884,10 @@ section.form .container {
 #header3-2q .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2q .mbr-section-title {
+  color: #ffffff;
+  font-size: 30px;
+}
 #extMsg-box3-2j SPAN {
   font-size: 46px;
   color: #232323;
