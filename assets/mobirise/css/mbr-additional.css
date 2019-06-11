@@ -766,6 +766,9 @@ section.form .container {
   font-size: 30px;
   text-align: right;
 }
+#content2-p DIV {
+  color: #c0a375;
+}
 #content5-n .mbr-section-title,
 #content5-n p {
   color: #fff;
@@ -889,15 +892,6 @@ section.form .container {
 #extMsg-box3-2j P {
   color: #667403;
 }
-#pricing-table1-2n .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-2n .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#content2-p DIV {
-  color: #c0a375;
-}
 #msg-box3-1x .mbr-section-title,
 #msg-box3-1x p {
   color: #000;
@@ -926,7 +920,4 @@ section.form .container {
 #msg-box3-27 .mbr-section-title,
 #msg-box3-27 p {
   color: #000;
-}
-#extPricingTable1-2p .mbr-plan-title {
-  color: #667403;
 }
