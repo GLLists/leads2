@@ -20,6 +20,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -916,6 +917,14 @@ section.form .container {
 }
 #msg-box3-30 .btn {
   font-size: 18px;
+}
+#msg-box4-2z P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  color: #553982;
+}
+#msg-box4-2z H3 {
+  color: #b8312f;
 }
 .cid-rt77V3npB6.popup-builder {
   background-color: #ffffff;
