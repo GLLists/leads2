@@ -877,6 +877,14 @@ section.form .container {
 #extAccordion1-2e DIV {
   color: #ffffff;
 }
+#extMsg-box3-2j SPAN {
+  font-size: 36px;
+  color: #232323;
+  text-align: right;
+}
+#extMsg-box3-2j P {
+  color: #667403;
+}
 #content2-p DIV {
   color: #c0a375;
 }
