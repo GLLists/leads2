@@ -904,6 +904,12 @@ section.form .container {
   color: #ffffff;
   font-size: 30px;
 }
+#extTabs1-2s P {
+  text-align: left;
+}
+#extTabs1-2s H3 {
+  color: #667403;
+}
 #msg-box3-1x .mbr-section-title,
 #msg-box3-1x p {
   color: #000;
