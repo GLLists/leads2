@@ -877,6 +877,10 @@ section.form .container {
 #extAccordion1-2e DIV {
   color: #ffffff;
 }
+#header3-2q .mbr-section-title,
+#header3-2q .mbr-section-subtitle {
+  text-align: center;
+}
 #extMsg-box3-2j SPAN {
   font-size: 46px;
   color: #232323;
