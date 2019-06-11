@@ -920,11 +920,17 @@ section.form .container {
 }
 #msg-box4-2z P {
   font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
+  font-size: 46px;
   color: #553982;
 }
 #msg-box4-2z H3 {
   color: #b8312f;
+}
+#form1-37 .form-control-label {
+  color: #fac51c;
+}
+#form1-37 .mbr-section-title {
+  color: #ffffff;
 }
 .cid-rt77V3npB6.popup-builder {
   background-color: #ffffff;
