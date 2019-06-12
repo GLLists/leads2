@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
-    "uniqCompNum": 116,
+    "uniqCompNum": 118,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -677,7 +677,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10002.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"25\">LISTEN FOR A SENSE OF WHAT CAN HAPPEN FOR YOU...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/3m-13s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10000.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"25\">LISTEN FOR A SENSE OF WHAT CAN HAPPEN FOR YOU...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/10k-leads-overview.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/3m-13s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-28",
           "_customCSS": "",
@@ -1162,7 +1162,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "Frequently Asked Questions",
-          "title1": "<a role=\"button\" class=\"collapsed text-warning\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseOne_3\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>How do genealogy leads work?</b></a>",
+          "title1": "<a role=\"button\" class=\"text-warning collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_8\" data-core=\"\" href=\"#collapseOne_8\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>How do genealogy leads work?</b></a>",
           "title2": "<a role=\"button\" class=\"collapsed text-warning\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseTwo_3\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Can I really make serious money selling genealogy leads?</b></a>",
           "title3": "<a role=\"button\" class=\"collapsed text-warning\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseThree_3\" aria-expanded=\"false\" aria-controls=\"collapseThree\"><b>How much money can I realistically make selling genealogy leads?</b></a>",
           "title4": "<a role=\"button\" class=\"text-warning collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseFour_3\" aria-expanded=\"false\" aria-controls=\"collapseFour\"><b>What are the best ways to sell the leads?</b></a>",
@@ -1264,7 +1264,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10003.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"29\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/5m-37s.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/5m-37s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 0px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10001.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 30px;\" code-editable-id=\"29\">Wondering which package is right for you? Here's a couple things to consider...\n</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/5m-37s.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/5m-37s.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-2k",
           "_customCSS": "",
@@ -1484,18 +1484,18 @@
             "tabs": "5",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extTabs1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.2
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "title1": "PHENOMENAL VALUE",
           "title2": "AMAZING VALUE",
@@ -1503,7 +1503,7 @@
           "title4": "\n<div><span style=\"color: inherit; font-size: 1.75rem;\">GOOD VALUE</span><br></div>",
           "title5": "ABSOLUTELY YOUR BEST VALUE",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2s\" aria-expanded=\"true\">20 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2s\" aria-expanded=\"false\">10 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2s\" aria-expanded=\"false\">5 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2s\" aria-expanded=\"false\">3 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2s\" aria-expanded=\"false\">ULTIMATE PACKAGE</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2s\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2s\" aria-expanded=\"false\">20 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2s\" aria-expanded=\"false\">10 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2s\" aria-expanded=\"false\">5 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2s\" aria-expanded=\"true\">3 List Package Details</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2s\" aria-expanded=\"false\">ULTIMATE PACKAGE</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2s\">Beautiful</a></li>",
           "text1": "<b>This package includes 20 of the largest lists available.</b> The number of people on each list can reach in to the hundreds of thousands. Combined you are looking at around one million leads.<br><br>The variety offered in this making money package ensures you always have something for everyone, no matter what their niche. This is extremely important in terms of consistent sales. Having an inventory of 20 lists will make it far easier for you to offer not only variety, but also to offer discounts to those who purchase multiple lists at once.<br><br>If you are looking to truly maximize your income potential, this is the package you want. This is the most popular package. It’s the most popular because of the price, value and also the ability to resell it in a variety of ways.<br><br>This package includes a 60 minute consulting session. This package includes the 80 minute audio CD and the 2 hour DVD.",
           "text2": "<b>This package includes 10 large lists.</b> The number of people on each list isn’t as many as the top package, however these lists are still large. You are still looking at a large number of people. The variety offered in this making money package ensures you always have something for almost everyone, no matter what their niche. This is extremely important in terms of consistent sales. Having an inventory of 10 lists will make it far easier for you to offer not only variety, but also to offer discounts to those who purchase multiple lists at once. If you are looking to truly maximize your income potential, this package has amazing value. This package is very popular because of the price, value and also the ability to resell it in a variety of ways. If you can’t do the top package but you still want to start making some serious money right away, this is the package for you. This package includes a 45 minute consulting session. This package includes the 80 minute audio CD and the 2 hour DVD.",
           "text3": "<b>This package includes 5 medium lists.</b> The number of people on each list isn’t as many as the two top packages, however these lists are still big. You are still looking at a big number of people.\n<br>\n<br>The variety offered in this making money package ensures you should have something for many, no matter what their niche. This is extremely important in terms of consistent sales. Having an inventory of 5 lists will enable you to get started where you can and still offer not only variety, but also to offer discounts to those who purchase multiple lists at once.\n<br>\n<br>If you are looking to truly maximize your income potential, this package has great value. This package is popular because of the price, value and also the ability to resell it in a variety of ways. If you can’t do the top packages but you still want to start making some serious money right away, this is the package for you.\n<br>\n<br>This package includes a 20 minute consulting session. This package includes the 80 minute audio CD and the 2 hour DVD.",
@@ -1729,7 +1729,6 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2z",
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
@@ -1740,7 +1739,8 @@
             "H3": {
               "color": "#b8312f"
             }
-          }
+          },
+          "_anchor": "msg-box4-39"
         },
         {
           "_params": {
