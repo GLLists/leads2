@@ -927,6 +927,9 @@ section.form .container {
 #msg-box4-39 H3 {
   color: #b8312f;
 }
+#footer1-36 P {
+  color: #f7da64;
+}
 #form1-37 .form-control-label {
   color: #fac51c;
 }
@@ -1099,6 +1102,7 @@ section.form .container {
   width: 100%;
   margin: 0;
   text-align: center;
+  color: #553982;
 }
 .cid-rt77V3npB6 .modal-body {
   position: relative;
@@ -1212,4 +1216,7 @@ section.form .container {
   flex: 0 0 auto;
   width: auto;
   max-width: 100%;
+}
+.cid-rt77V3npB6 .modal-title B {
+  font-size: 24px;
 }
